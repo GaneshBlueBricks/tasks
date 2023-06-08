@@ -1,0 +1,5 @@
+tester\TestHibernate.class
+pojos\Employee.class
+tester\ConverterClass.class
+pojos\EmployeeInfo.class
+utils\HibernateUtils.class
